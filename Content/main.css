@@ -1,4 +1,5 @@
 body{
+    background-color: #bde802;
     padding: 0;
     border: 0;
     margin: 0 auto;
@@ -26,9 +27,6 @@ hr {
     color: black;
     border-style: solid;
 }
-body {
-    background-color: #bde802;
-}
 a {
     font-weight: bold;
     text-decoration: none;
@@ -54,7 +52,6 @@ a:hover {
 }
 .projects ul, .badges ul, .languages ul, .skills ul {
     text-align: center;
-
     list-style-type: none;
 }
 .projects li, .badges li, .skills li, .languages li, .footer li{
@@ -108,9 +105,6 @@ a:hover {
 }
 .footer li{
     background-color: #bde802;
-}
-a :hover {
-
 }
 
 
